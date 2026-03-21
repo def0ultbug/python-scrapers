@@ -67,7 +67,7 @@ jupyter notebook
 
 ### Prerequisites
 - Python 3.8 or higher
-- pip for package management
+- poetry for package management
 - Basic knowledge of Python and HTML
 
 ## 🤝 Contributing
