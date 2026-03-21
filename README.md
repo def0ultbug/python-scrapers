@@ -41,8 +41,6 @@ Each notebook contains:
 git clone https://github.com/your-username/python-scrapers.git
 cd python-scrapers
 
-# Install dependencies
-pip install -r requirements.txt
 
 # Launch Jupyter
 jupyter notebook
