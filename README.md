@@ -16,6 +16,7 @@ Each notebook represents a focused learning exercise with explanations and imple
 python-scrapers/
 ├── Simple_Web_Scraper.ipynb
 ├── web_crawlers.ipynb
+├── store_data.ipynb
 └── README.md
 ```
 
@@ -52,7 +53,8 @@ jupyter notebook
 | Notebook | Concept | Status |
 |----------|---------|--------|
 | Simple_Web_Scraper.ipynb | Basic web scraping with Requests & BeautifulSoup | ✅ Completed |
-| web_crawlers.ipynb | Web crawling and link traversal | 🚧 In Progress |
+| web_crawlers.ipynb | Web crawling and link traversal | ✅ Completed |
+|store_data.ipynb | storing scraped data in CSV and MySQL |✅ Completed|
 
 **Legend:** ✅ Completed | 🚧 In Progress | 📋 Planned
 
