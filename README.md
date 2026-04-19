@@ -39,7 +39,8 @@ Each notebook contains:
 ### Running a Notebook
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/python-scrapers.git
+
+git clone https://github.com/def0ultbug/python-scrapers.git
 cd python-scrapers
 
 
